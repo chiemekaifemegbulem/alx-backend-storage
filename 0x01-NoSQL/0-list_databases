@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+// Lists all MongoDB databases.
+show dbs;
